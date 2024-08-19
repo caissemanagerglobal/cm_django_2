@@ -1,0 +1,245 @@
+[
+    {
+        "id": 1,
+        "name": "Sushi",
+        "is_displayed": true,
+        "products": [],
+        "children": [
+            {
+                "id": 2,
+                "name": "Maki",
+                "is_displayed": true,
+                "products": [
+                    {
+                        "id": 1,
+                        "name": "Sushi Maki 1",
+                        "category": 2,
+                        "description": "",
+                        "image": null,
+                        "is_active": true,
+                        "variants": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sushi Maki 2",
+                        "category": 2,
+                        "description": "",
+                        "image": null,
+                        "is_active": true,
+                        "variants": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "Sushi Maki 3",
+                        "category": 2,
+                        "description": "",
+                        "image": null,
+                        "is_active": true,
+                        "variants": []
+                    }
+                ],
+                "children": [],
+                "sequence": 1
+            },
+            {
+                "id": 3,
+                "name": "california",
+                "is_displayed": true,
+                "products": [
+                    {
+                        "id": 4,
+                        "name": "Sushi california 1",
+                        "category": 3,
+                        "description": "",
+                        "image": null,
+                        "is_active": true,
+                        "variants": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "Sushi california 2",
+                        "category": 3,
+                        "description": "",
+                        "image": null,
+                        "is_active": true,
+                        "variants": []
+                    },
+                    {
+                        "id": 6,
+                        "name": "Sushi california 3",
+                        "category": 3,
+                        "description": "",
+                        "image": null,
+                        "is_active": true,
+                        "variants": []
+                    }
+                ],
+                "children": [],
+                "sequence": 1
+            },
+            {
+                "id": 4,
+                "name": "new style rolls",
+                "is_displayed": true,
+                "products": [
+                    {
+                        "id": 7,
+                        "name": "Sushi new style 1",
+                        "category": 4,
+                        "description": "",
+                        "image": null,
+                        "is_active": true,
+                        "variants": []
+                    },
+                    {
+                        "id": 8,
+                        "name": "Sushi new style 2",
+                        "category": 4,
+                        "description": "",
+                        "image": null,
+                        "is_active": true,
+                        "variants": []
+                    },
+                    {
+                        "id": 9,
+                        "name": "Sushi new style 3",
+                        "category": 4,
+                        "description": "",
+                        "image": null,
+                        "is_active": true,
+                        "variants": []
+                    },
+                    {
+                        "id": 10,
+                        "name": "Sushi new style 4",
+                        "category": 4,
+                        "description": "",
+                        "image": null,
+                        "is_active": true,
+                        "variants": []
+                    }
+                ],
+                "children": [],
+                "sequence": 1
+            }
+        ],
+        "sequence": 1
+    },
+    {
+        "id": 5,
+        "name": "Boissons",
+        "is_displayed": true,
+        "products": [],
+        "children": [
+            {
+                "id": 6,
+                "name": "Boissons Gazeuse",
+                "is_displayed": true,
+                "products": [
+                    {
+                        "id": 11,
+                        "name": "Coca Cola",
+                        "category": 6,
+                        "description": "",
+                        "image": null,
+                        "is_active": true,
+                        "variants": []
+                    }
+                ],
+                "children": [],
+                "sequence": 1
+            },
+            {
+                "id": 7,
+                "name": "Jus",
+                "is_displayed": true,
+                "products": [
+                    {
+                        "id": 12,
+                        "name": "Jus orange",
+                        "category": 7,
+                        "description": "",
+                        "image": null,
+                        "is_active": true,
+                        "variants": []
+                    },
+                    {
+                        "id": 13,
+                        "name": "Jus banane",
+                        "category": 7,
+                        "description": "",
+                        "image": null,
+                        "is_active": true,
+                        "variants": []
+                    },
+                    {
+                        "id": 14,
+                        "name": "Jus kiwi",
+                        "category": 7,
+                        "description": "",
+                        "image": null,
+                        "is_active": true,
+                        "variants": []
+                    }
+                ],
+                "children": [],
+                "sequence": 1
+            },
+            {
+                "id": 8,
+                "name": "Boissons Chaudes",
+                "is_displayed": true,
+                "products": [],
+                "children": [
+                    {
+                        "id": 9,
+                        "name": "Cafes",
+                        "is_displayed": true,
+                        "products": [
+                            {
+                                "id": 15,
+                                "name": "espresso",
+                                "category": 9,
+                                "description": "",
+                                "image": null,
+                                "is_active": true,
+                                "variants": []
+                            },
+                            {
+                                "id": 16,
+                                "name": "espresso double",
+                                "category": 9,
+                                "description": "",
+                                "image": null,
+                                "is_active": true,
+                                "variants": []
+                            },
+                            {
+                                "id": 17,
+                                "name": "espresso triple",
+                                "category": 9,
+                                "description": "",
+                                "image": null,
+                                "is_active": true,
+                                "variants": []
+                            },
+                            {
+                                "id": 18,
+                                "name": "cappuchino",
+                                "category": 9,
+                                "description": "",
+                                "image": null,
+                                "is_active": true,
+                                "variants": []
+                            }
+                        ],
+                        "children": [],
+                        "sequence": 1
+                    }
+                ],
+                "sequence": 1
+            }
+        ],
+        "sequence": 1
+    }
+]
